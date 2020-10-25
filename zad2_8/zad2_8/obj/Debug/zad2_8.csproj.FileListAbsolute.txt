@@ -1,0 +1,6 @@
+C:\Users\thesz\source\repos\ProgramowanieObiektowe\zad2_8\zad2_8\bin\Debug\zad2_8.exe.config
+C:\Users\thesz\source\repos\ProgramowanieObiektowe\zad2_8\zad2_8\bin\Debug\zad2_8.exe
+C:\Users\thesz\source\repos\ProgramowanieObiektowe\zad2_8\zad2_8\bin\Debug\zad2_8.pdb
+C:\Users\thesz\source\repos\ProgramowanieObiektowe\zad2_8\zad2_8\obj\Debug\zad2_8.csproj.CoreCompileInputs.cache
+C:\Users\thesz\source\repos\ProgramowanieObiektowe\zad2_8\zad2_8\obj\Debug\zad2_8.exe
+C:\Users\thesz\source\repos\ProgramowanieObiektowe\zad2_8\zad2_8\obj\Debug\zad2_8.pdb
